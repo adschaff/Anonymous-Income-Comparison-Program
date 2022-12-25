@@ -1,0 +1,15 @@
+/Users/nbi_alexschaffer/Projects/Anonymous Income Comparison Program/Anonymous Income Comparison Program/obj/Debug/net7.0/Anonymous Income Comparison Program.csproj.AssemblyReference.cache
+/Users/nbi_alexschaffer/Projects/Anonymous Income Comparison Program/Anonymous Income Comparison Program/obj/Debug/net7.0/Anonymous Income Comparison Program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nbi_alexschaffer/Projects/Anonymous Income Comparison Program/Anonymous Income Comparison Program/obj/Debug/net7.0/Anonymous Income Comparison Program.AssemblyInfoInputs.cache
+/Users/nbi_alexschaffer/Projects/Anonymous Income Comparison Program/Anonymous Income Comparison Program/obj/Debug/net7.0/Anonymous Income Comparison Program.AssemblyInfo.cs
+/Users/nbi_alexschaffer/Projects/Anonymous Income Comparison Program/Anonymous Income Comparison Program/obj/Debug/net7.0/Anonymous Income Comparison Program.csproj.CoreCompileInputs.cache
+/Users/nbi_alexschaffer/Projects/Anonymous Income Comparison Program/Anonymous Income Comparison Program/bin/Debug/net7.0/Anonymous Income Comparison Program
+/Users/nbi_alexschaffer/Projects/Anonymous Income Comparison Program/Anonymous Income Comparison Program/bin/Debug/net7.0/Anonymous Income Comparison Program.deps.json
+/Users/nbi_alexschaffer/Projects/Anonymous Income Comparison Program/Anonymous Income Comparison Program/bin/Debug/net7.0/Anonymous Income Comparison Program.runtimeconfig.json
+/Users/nbi_alexschaffer/Projects/Anonymous Income Comparison Program/Anonymous Income Comparison Program/bin/Debug/net7.0/Anonymous Income Comparison Program.dll
+/Users/nbi_alexschaffer/Projects/Anonymous Income Comparison Program/Anonymous Income Comparison Program/bin/Debug/net7.0/Anonymous Income Comparison Program.pdb
+/Users/nbi_alexschaffer/Projects/Anonymous Income Comparison Program/Anonymous Income Comparison Program/obj/Debug/net7.0/Anonymous Income Comparison Program.dll
+/Users/nbi_alexschaffer/Projects/Anonymous Income Comparison Program/Anonymous Income Comparison Program/obj/Debug/net7.0/refint/Anonymous Income Comparison Program.dll
+/Users/nbi_alexschaffer/Projects/Anonymous Income Comparison Program/Anonymous Income Comparison Program/obj/Debug/net7.0/Anonymous Income Comparison Program.pdb
+/Users/nbi_alexschaffer/Projects/Anonymous Income Comparison Program/Anonymous Income Comparison Program/obj/Debug/net7.0/Anonymous Income Comparison Program.genruntimeconfig.cache
+/Users/nbi_alexschaffer/Projects/Anonymous Income Comparison Program/Anonymous Income Comparison Program/obj/Debug/net7.0/ref/Anonymous Income Comparison Program.dll
